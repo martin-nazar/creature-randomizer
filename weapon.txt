@@ -1,0 +1,6 @@
+Sword
+Axe
+Bow
+Shield
+Staff
+Bare hand
